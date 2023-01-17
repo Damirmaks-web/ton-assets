@@ -686,5 +686,10 @@
  {
   "address": "EQDFlNFYQx5Ka28omK_UPmKiRncg0vMxJACErzdhqeCgcpTP",
   "name": "Zeya's Winter Map"
- }
+ },
+ {
+ "address":"0:d180479054baaac1ac3ff536def7c56cb3949246067991061d2fe41ac0fab16c"
+ "description": "A tool for saving and increasing digital assets. 
+With automatic conversion to the national currency"
+ "name": "Toncoin cash"
 ]
